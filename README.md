@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like trains
+- ⚡ Fun fact: I like frogs
 
 <!---
 joonasillgren/joonasillgren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
